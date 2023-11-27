@@ -1,0 +1,15 @@
+/Users/nicolaszarcerogarcia/RiderProjects/Client/Client/bin/Debug/net7.0/Client
+/Users/nicolaszarcerogarcia/RiderProjects/Client/Client/bin/Debug/net7.0/Client.deps.json
+/Users/nicolaszarcerogarcia/RiderProjects/Client/Client/bin/Debug/net7.0/Client.runtimeconfig.json
+/Users/nicolaszarcerogarcia/RiderProjects/Client/Client/bin/Debug/net7.0/Client.dll
+/Users/nicolaszarcerogarcia/RiderProjects/Client/Client/bin/Debug/net7.0/Client.pdb
+/Users/nicolaszarcerogarcia/RiderProjects/Client/Client/obj/Debug/net7.0/Client.csproj.AssemblyReference.cache
+/Users/nicolaszarcerogarcia/RiderProjects/Client/Client/obj/Debug/net7.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolaszarcerogarcia/RiderProjects/Client/Client/obj/Debug/net7.0/Client.AssemblyInfoInputs.cache
+/Users/nicolaszarcerogarcia/RiderProjects/Client/Client/obj/Debug/net7.0/Client.AssemblyInfo.cs
+/Users/nicolaszarcerogarcia/RiderProjects/Client/Client/obj/Debug/net7.0/Client.csproj.CoreCompileInputs.cache
+/Users/nicolaszarcerogarcia/RiderProjects/Client/Client/obj/Debug/net7.0/Client.dll
+/Users/nicolaszarcerogarcia/RiderProjects/Client/Client/obj/Debug/net7.0/refint/Client.dll
+/Users/nicolaszarcerogarcia/RiderProjects/Client/Client/obj/Debug/net7.0/Client.pdb
+/Users/nicolaszarcerogarcia/RiderProjects/Client/Client/obj/Debug/net7.0/Client.genruntimeconfig.cache
+/Users/nicolaszarcerogarcia/RiderProjects/Client/Client/obj/Debug/net7.0/ref/Client.dll

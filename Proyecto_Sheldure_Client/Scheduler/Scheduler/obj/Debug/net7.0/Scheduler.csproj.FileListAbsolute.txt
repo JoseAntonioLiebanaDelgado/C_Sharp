@@ -1,0 +1,15 @@
+/Users/nicolaszarcerogarcia/RiderProjects/Scheduler/Scheduler/bin/Debug/net7.0/Scheduler
+/Users/nicolaszarcerogarcia/RiderProjects/Scheduler/Scheduler/bin/Debug/net7.0/Scheduler.deps.json
+/Users/nicolaszarcerogarcia/RiderProjects/Scheduler/Scheduler/bin/Debug/net7.0/Scheduler.runtimeconfig.json
+/Users/nicolaszarcerogarcia/RiderProjects/Scheduler/Scheduler/bin/Debug/net7.0/Scheduler.dll
+/Users/nicolaszarcerogarcia/RiderProjects/Scheduler/Scheduler/bin/Debug/net7.0/Scheduler.pdb
+/Users/nicolaszarcerogarcia/RiderProjects/Scheduler/Scheduler/obj/Debug/net7.0/Scheduler.csproj.AssemblyReference.cache
+/Users/nicolaszarcerogarcia/RiderProjects/Scheduler/Scheduler/obj/Debug/net7.0/Scheduler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolaszarcerogarcia/RiderProjects/Scheduler/Scheduler/obj/Debug/net7.0/Scheduler.AssemblyInfoInputs.cache
+/Users/nicolaszarcerogarcia/RiderProjects/Scheduler/Scheduler/obj/Debug/net7.0/Scheduler.AssemblyInfo.cs
+/Users/nicolaszarcerogarcia/RiderProjects/Scheduler/Scheduler/obj/Debug/net7.0/Scheduler.csproj.CoreCompileInputs.cache
+/Users/nicolaszarcerogarcia/RiderProjects/Scheduler/Scheduler/obj/Debug/net7.0/Scheduler.dll
+/Users/nicolaszarcerogarcia/RiderProjects/Scheduler/Scheduler/obj/Debug/net7.0/refint/Scheduler.dll
+/Users/nicolaszarcerogarcia/RiderProjects/Scheduler/Scheduler/obj/Debug/net7.0/Scheduler.pdb
+/Users/nicolaszarcerogarcia/RiderProjects/Scheduler/Scheduler/obj/Debug/net7.0/Scheduler.genruntimeconfig.cache
+/Users/nicolaszarcerogarcia/RiderProjects/Scheduler/Scheduler/obj/Debug/net7.0/ref/Scheduler.dll
