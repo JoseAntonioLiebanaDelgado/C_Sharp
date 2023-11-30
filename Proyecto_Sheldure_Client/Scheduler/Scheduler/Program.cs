@@ -77,7 +77,7 @@ namespace Scheduler
         static void StartProcess(string name, string surname, string course)
         {
             Process P = new Process();
-            P.StartInfo.FileName = @"C:\Users\polcr\DAM2\M09\UF2\PracticaM09-UF2\client\client\bin\Debug\net6.0\client.exe";
+            P.StartInfo.FileName = @"C:\Users\joseantonioliebanadelgado\Documentos\Developer\C_Sharp\client\client\bin\Debug\net6.0\client.exe";
             P.StartInfo.Arguments = name + " " + surname + " " + course;
             P.EnableRaisingEvents = true;
             P.Exited += (sender, e) =>
