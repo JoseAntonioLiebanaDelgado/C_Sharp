@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joseantonioliebanadelgado/Desktop/Client/Client/Client.csproj",
+      "projectUniqueName": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Proyecto_Sheldure_Client/Client/Client/Client.csproj",
       "projectName": "Client",
-      "projectPath": "/Users/joseantonioliebanadelgado/Desktop/Client/Client/Client.csproj",
+      "projectPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Proyecto_Sheldure_Client/Client/Client/Client.csproj",
       "packagesPath": "/Users/joseantonioliebanadelgado/.nuget/packages/",
-      "outputPath": "/Users/joseantonioliebanadelgado/Desktop/Client/Client/obj/",
+      "outputPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Proyecto_Sheldure_Client/Client/Client/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/joseantonioliebanadelgado/.nuget/NuGet/NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joseantonioliebanadelgado/Desktop/Scheduler/Scheduler/Scheduler.csproj",
+      "projectUniqueName": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Proyecto_Sheldure_Client/Scheduler/Scheduler/Scheduler.csproj",
       "projectName": "Scheduler",
-      "projectPath": "/Users/joseantonioliebanadelgado/Desktop/Scheduler/Scheduler/Scheduler.csproj",
+      "projectPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Proyecto_Sheldure_Client/Scheduler/Scheduler/Scheduler.csproj",
       "packagesPath": "/Users/joseantonioliebanadelgado/.nuget/packages/",
-      "outputPath": "/Users/joseantonioliebanadelgado/Desktop/Scheduler/Scheduler/obj/",
+      "outputPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Proyecto_Sheldure_Client/Scheduler/Scheduler/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/joseantonioliebanadelgado/.nuget/NuGet/NuGet.Config"

@@ -15,7 +15,7 @@ namespace Scheduler
 
             Thread tProcessQueue = new Thread(ProcessQueue);
             tProcessQueue.Start();
-            
+
             tUI.Join();
             tProcessQueue.Join();
         }
@@ -77,7 +77,7 @@ namespace Scheduler
         static void StartProcess(string name, string surname, string course)
         {
             Process P = new Process();
-            P.StartInfo.FileName = @"/Users/nicolaszarcerogarcia/RiderProjects/Client/Client/bin/Debug/net7.0/Client";
+            P.StartInfo.FileName = @"C:\Users\polcr\DAM2\M09\UF2\PracticaM09-UF2\client\client\bin\Debug\net6.0\client.exe";
             P.StartInfo.Arguments = name + " " + surname + " " + course;
             P.EnableRaisingEvents = true;
             P.Exited += (sender, e) =>
@@ -86,7 +86,6 @@ namespace Scheduler
             };
 
             P.Start();
-            P.WaitForExit();
         }
 
         static void ProcessQueue()
@@ -101,7 +100,7 @@ namespace Scheduler
                         StartProcess(processInfo.Item1, processInfo.Item2, processInfo.Item3);
                     }
                 }
-                
+
                 Thread.Sleep(100);
             }
         }
