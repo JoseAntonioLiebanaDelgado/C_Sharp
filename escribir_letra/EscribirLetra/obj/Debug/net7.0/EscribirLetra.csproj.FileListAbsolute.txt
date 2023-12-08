@@ -1,0 +1,15 @@
+/Users/nicolaszarcerogarcia/RiderProjects/escribir_letra/EscribirLetra/bin/Debug/net7.0/EscribirLetra
+/Users/nicolaszarcerogarcia/RiderProjects/escribir_letra/EscribirLetra/bin/Debug/net7.0/EscribirLetra.deps.json
+/Users/nicolaszarcerogarcia/RiderProjects/escribir_letra/EscribirLetra/bin/Debug/net7.0/EscribirLetra.runtimeconfig.json
+/Users/nicolaszarcerogarcia/RiderProjects/escribir_letra/EscribirLetra/bin/Debug/net7.0/EscribirLetra.dll
+/Users/nicolaszarcerogarcia/RiderProjects/escribir_letra/EscribirLetra/bin/Debug/net7.0/EscribirLetra.pdb
+/Users/nicolaszarcerogarcia/RiderProjects/escribir_letra/EscribirLetra/obj/Debug/net7.0/EscribirLetra.csproj.AssemblyReference.cache
+/Users/nicolaszarcerogarcia/RiderProjects/escribir_letra/EscribirLetra/obj/Debug/net7.0/EscribirLetra.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolaszarcerogarcia/RiderProjects/escribir_letra/EscribirLetra/obj/Debug/net7.0/EscribirLetra.AssemblyInfoInputs.cache
+/Users/nicolaszarcerogarcia/RiderProjects/escribir_letra/EscribirLetra/obj/Debug/net7.0/EscribirLetra.AssemblyInfo.cs
+/Users/nicolaszarcerogarcia/RiderProjects/escribir_letra/EscribirLetra/obj/Debug/net7.0/EscribirLetra.csproj.CoreCompileInputs.cache
+/Users/nicolaszarcerogarcia/RiderProjects/escribir_letra/EscribirLetra/obj/Debug/net7.0/EscribirLetra.dll
+/Users/nicolaszarcerogarcia/RiderProjects/escribir_letra/EscribirLetra/obj/Debug/net7.0/refint/EscribirLetra.dll
+/Users/nicolaszarcerogarcia/RiderProjects/escribir_letra/EscribirLetra/obj/Debug/net7.0/EscribirLetra.pdb
+/Users/nicolaszarcerogarcia/RiderProjects/escribir_letra/EscribirLetra/obj/Debug/net7.0/EscribirLetra.genruntimeconfig.cache
+/Users/nicolaszarcerogarcia/RiderProjects/escribir_letra/EscribirLetra/obj/Debug/net7.0/ref/EscribirLetra.dll

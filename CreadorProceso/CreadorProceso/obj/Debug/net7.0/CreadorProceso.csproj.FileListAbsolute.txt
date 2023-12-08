@@ -1,0 +1,15 @@
+/Users/nicolaszarcerogarcia/RiderProjects/CreadorProceso/CreadorProceso/bin/Debug/net7.0/CreadorProceso
+/Users/nicolaszarcerogarcia/RiderProjects/CreadorProceso/CreadorProceso/bin/Debug/net7.0/CreadorProceso.deps.json
+/Users/nicolaszarcerogarcia/RiderProjects/CreadorProceso/CreadorProceso/bin/Debug/net7.0/CreadorProceso.runtimeconfig.json
+/Users/nicolaszarcerogarcia/RiderProjects/CreadorProceso/CreadorProceso/bin/Debug/net7.0/CreadorProceso.dll
+/Users/nicolaszarcerogarcia/RiderProjects/CreadorProceso/CreadorProceso/bin/Debug/net7.0/CreadorProceso.pdb
+/Users/nicolaszarcerogarcia/RiderProjects/CreadorProceso/CreadorProceso/obj/Debug/net7.0/CreadorProceso.csproj.AssemblyReference.cache
+/Users/nicolaszarcerogarcia/RiderProjects/CreadorProceso/CreadorProceso/obj/Debug/net7.0/CreadorProceso.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolaszarcerogarcia/RiderProjects/CreadorProceso/CreadorProceso/obj/Debug/net7.0/CreadorProceso.AssemblyInfoInputs.cache
+/Users/nicolaszarcerogarcia/RiderProjects/CreadorProceso/CreadorProceso/obj/Debug/net7.0/CreadorProceso.AssemblyInfo.cs
+/Users/nicolaszarcerogarcia/RiderProjects/CreadorProceso/CreadorProceso/obj/Debug/net7.0/CreadorProceso.csproj.CoreCompileInputs.cache
+/Users/nicolaszarcerogarcia/RiderProjects/CreadorProceso/CreadorProceso/obj/Debug/net7.0/CreadorProceso.dll
+/Users/nicolaszarcerogarcia/RiderProjects/CreadorProceso/CreadorProceso/obj/Debug/net7.0/refint/CreadorProceso.dll
+/Users/nicolaszarcerogarcia/RiderProjects/CreadorProceso/CreadorProceso/obj/Debug/net7.0/CreadorProceso.pdb
+/Users/nicolaszarcerogarcia/RiderProjects/CreadorProceso/CreadorProceso/obj/Debug/net7.0/CreadorProceso.genruntimeconfig.cache
+/Users/nicolaszarcerogarcia/RiderProjects/CreadorProceso/CreadorProceso/obj/Debug/net7.0/ref/CreadorProceso.dll

@@ -1,0 +1,30 @@
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/Atletisme/Atletisme/bin/Debug/net6.0/Atletisme.exe
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/Atletisme/Atletisme/bin/Debug/net6.0/Atletisme.deps.json
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/Atletisme/Atletisme/bin/Debug/net6.0/Atletisme.runtimeconfig.json
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/Atletisme/Atletisme/bin/Debug/net6.0/Atletisme.dll
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/Atletisme/Atletisme/bin/Debug/net6.0/ref/Atletisme.dll
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/Atletisme/Atletisme/bin/Debug/net6.0/Atletisme.pdb
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/Atletisme/Atletisme/obj/Debug/net6.0/Atletisme.csproj.AssemblyReference.cache
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/Atletisme/Atletisme/obj/Debug/net6.0/Atletisme.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/Atletisme/Atletisme/obj/Debug/net6.0/Atletisme.AssemblyInfoInputs.cache
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/Atletisme/Atletisme/obj/Debug/net6.0/Atletisme.AssemblyInfo.cs
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/Atletisme/Atletisme/obj/Debug/net6.0/Atletisme.csproj.CoreCompileInputs.cache
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/Atletisme/Atletisme/obj/Debug/net6.0/Atletisme.dll
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/Atletisme/Atletisme/obj/Debug/net6.0/ref/Atletisme.dll
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/Atletisme/Atletisme/obj/Debug/net6.0/Atletisme.pdb
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/Atletisme/Atletisme/obj/Debug/net6.0/Atletisme.genruntimeconfig.cache
+/Users/nicolaszarcerogarcia/Downloads/Atletisme/Atletisme/bin/Debug/net6.0/Atletisme
+/Users/nicolaszarcerogarcia/Downloads/Atletisme/Atletisme/bin/Debug/net6.0/Atletisme.deps.json
+/Users/nicolaszarcerogarcia/Downloads/Atletisme/Atletisme/bin/Debug/net6.0/Atletisme.runtimeconfig.json
+/Users/nicolaszarcerogarcia/Downloads/Atletisme/Atletisme/bin/Debug/net6.0/Atletisme.dll
+/Users/nicolaszarcerogarcia/Downloads/Atletisme/Atletisme/bin/Debug/net6.0/Atletisme.pdb
+/Users/nicolaszarcerogarcia/Downloads/Atletisme/Atletisme/obj/Debug/net6.0/Atletisme.csproj.AssemblyReference.cache
+/Users/nicolaszarcerogarcia/Downloads/Atletisme/Atletisme/obj/Debug/net6.0/Atletisme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolaszarcerogarcia/Downloads/Atletisme/Atletisme/obj/Debug/net6.0/Atletisme.AssemblyInfoInputs.cache
+/Users/nicolaszarcerogarcia/Downloads/Atletisme/Atletisme/obj/Debug/net6.0/Atletisme.AssemblyInfo.cs
+/Users/nicolaszarcerogarcia/Downloads/Atletisme/Atletisme/obj/Debug/net6.0/Atletisme.csproj.CoreCompileInputs.cache
+/Users/nicolaszarcerogarcia/Downloads/Atletisme/Atletisme/obj/Debug/net6.0/Atletisme.dll
+/Users/nicolaszarcerogarcia/Downloads/Atletisme/Atletisme/obj/Debug/net6.0/refint/Atletisme.dll
+/Users/nicolaszarcerogarcia/Downloads/Atletisme/Atletisme/obj/Debug/net6.0/Atletisme.pdb
+/Users/nicolaszarcerogarcia/Downloads/Atletisme/Atletisme/obj/Debug/net6.0/Atletisme.genruntimeconfig.cache
+/Users/nicolaszarcerogarcia/Downloads/Atletisme/Atletisme/obj/Debug/net6.0/ref/Atletisme.dll

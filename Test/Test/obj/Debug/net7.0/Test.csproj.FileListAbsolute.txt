@@ -1,0 +1,15 @@
+/Users/nicolaszarcerogarcia/Projects/Test/Test/bin/Debug/net7.0/Test
+/Users/nicolaszarcerogarcia/Projects/Test/Test/bin/Debug/net7.0/Test.deps.json
+/Users/nicolaszarcerogarcia/Projects/Test/Test/bin/Debug/net7.0/Test.runtimeconfig.json
+/Users/nicolaszarcerogarcia/Projects/Test/Test/bin/Debug/net7.0/Test.dll
+/Users/nicolaszarcerogarcia/Projects/Test/Test/bin/Debug/net7.0/Test.pdb
+/Users/nicolaszarcerogarcia/Projects/Test/Test/obj/Debug/net7.0/Test.csproj.AssemblyReference.cache
+/Users/nicolaszarcerogarcia/Projects/Test/Test/obj/Debug/net7.0/Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolaszarcerogarcia/Projects/Test/Test/obj/Debug/net7.0/Test.AssemblyInfoInputs.cache
+/Users/nicolaszarcerogarcia/Projects/Test/Test/obj/Debug/net7.0/Test.AssemblyInfo.cs
+/Users/nicolaszarcerogarcia/Projects/Test/Test/obj/Debug/net7.0/Test.csproj.CoreCompileInputs.cache
+/Users/nicolaszarcerogarcia/Projects/Test/Test/obj/Debug/net7.0/Test.dll
+/Users/nicolaszarcerogarcia/Projects/Test/Test/obj/Debug/net7.0/refint/Test.dll
+/Users/nicolaszarcerogarcia/Projects/Test/Test/obj/Debug/net7.0/Test.pdb
+/Users/nicolaszarcerogarcia/Projects/Test/Test/obj/Debug/net7.0/Test.genruntimeconfig.cache
+/Users/nicolaszarcerogarcia/Projects/Test/Test/obj/Debug/net7.0/ref/Test.dll

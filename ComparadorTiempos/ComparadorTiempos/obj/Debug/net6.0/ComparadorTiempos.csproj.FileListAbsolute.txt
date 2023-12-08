@@ -1,0 +1,30 @@
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/ComparadorTiempos/ComparadorTiempos/bin/Debug/net6.0/ComparadorTiempos.exe
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/ComparadorTiempos/ComparadorTiempos/bin/Debug/net6.0/ComparadorTiempos.deps.json
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/ComparadorTiempos/ComparadorTiempos/bin/Debug/net6.0/ComparadorTiempos.runtimeconfig.json
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/ComparadorTiempos/ComparadorTiempos/bin/Debug/net6.0/ComparadorTiempos.dll
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/ComparadorTiempos/ComparadorTiempos/bin/Debug/net6.0/ref/ComparadorTiempos.dll
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/ComparadorTiempos/ComparadorTiempos/bin/Debug/net6.0/ComparadorTiempos.pdb
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.csproj.AssemblyReference.cache
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.AssemblyInfoInputs.cache
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.AssemblyInfo.cs
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.csproj.CoreCompileInputs.cache
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.dll
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ref/ComparadorTiempos.dll
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.pdb
+C:/Users/jordi/OneDrive/Escritorio/Projectes C#/VisualStudio/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.genruntimeconfig.cache
+/Users/nicolaszarcerogarcia/Downloads/ComparadorTiempos/ComparadorTiempos/bin/Debug/net6.0/ComparadorTiempos
+/Users/nicolaszarcerogarcia/Downloads/ComparadorTiempos/ComparadorTiempos/bin/Debug/net6.0/ComparadorTiempos.deps.json
+/Users/nicolaszarcerogarcia/Downloads/ComparadorTiempos/ComparadorTiempos/bin/Debug/net6.0/ComparadorTiempos.runtimeconfig.json
+/Users/nicolaszarcerogarcia/Downloads/ComparadorTiempos/ComparadorTiempos/bin/Debug/net6.0/ComparadorTiempos.dll
+/Users/nicolaszarcerogarcia/Downloads/ComparadorTiempos/ComparadorTiempos/bin/Debug/net6.0/ComparadorTiempos.pdb
+/Users/nicolaszarcerogarcia/Downloads/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.csproj.AssemblyReference.cache
+/Users/nicolaszarcerogarcia/Downloads/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolaszarcerogarcia/Downloads/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.AssemblyInfoInputs.cache
+/Users/nicolaszarcerogarcia/Downloads/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.AssemblyInfo.cs
+/Users/nicolaszarcerogarcia/Downloads/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.csproj.CoreCompileInputs.cache
+/Users/nicolaszarcerogarcia/Downloads/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.dll
+/Users/nicolaszarcerogarcia/Downloads/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/refint/ComparadorTiempos.dll
+/Users/nicolaszarcerogarcia/Downloads/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.pdb
+/Users/nicolaszarcerogarcia/Downloads/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.genruntimeconfig.cache
+/Users/nicolaszarcerogarcia/Downloads/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ref/ComparadorTiempos.dll

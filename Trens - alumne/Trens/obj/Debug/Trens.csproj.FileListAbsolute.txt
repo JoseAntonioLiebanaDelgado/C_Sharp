@@ -1,0 +1,25 @@
+C:/Users/Roger/Dropbox/La Salle - 16_17/DAM - M9/UF2/01_Exercicis/Exercici3/Trens/Trens/bin/Debug/Trens.exe.config
+C:/Users/Roger/Dropbox/La Salle - 16_17/DAM - M9/UF2/01_Exercicis/Exercici3/Trens/Trens/bin/Debug/Trens.exe
+C:/Users/Roger/Dropbox/La Salle - 16_17/DAM - M9/UF2/01_Exercicis/Exercici3/Trens/Trens/bin/Debug/Trens.pdb
+C:/Users/Roger/Dropbox/La Salle - 16_17/DAM - M9/UF2/01_Exercicis/Exercici3/Trens/Trens/obj/Debug/Trens.csprojResolveAssemblyReference.cache
+C:/Users/Roger/Dropbox/La Salle - 16_17/DAM - M9/UF2/01_Exercicis/Exercici3/Trens/Trens/obj/Debug/Trens.exe
+C:/Users/Roger/Dropbox/La Salle - 16_17/DAM - M9/UF2/01_Exercicis/Exercici3/Trens/Trens/obj/Debug/Trens.pdb
+C:/Users/Roger/Dropbox/La Salle - 17_18/DAM - M9/UF2/01_Exercicis/Exercici3_Trens/Trens/Trens/bin/Debug/Trens.exe.config
+C:/Users/Roger/Dropbox/La Salle - 17_18/DAM - M9/UF2/01_Exercicis/Exercici3_Trens/Trens/Trens/obj/Debug/Trens.exe
+C:/Users/Roger/Dropbox/La Salle - 17_18/DAM - M9/UF2/01_Exercicis/Exercici3_Trens/Trens/Trens/obj/Debug/Trens.pdb
+C:/Users/Roger/Dropbox/La Salle - 17_18/DAM - M9/UF2/01_Exercicis/Exercici3_Trens/Trens - alumne/Trens/bin/Debug/Trens.exe.config
+C:/Users/Roger/Dropbox/La Salle - 17_18/DAM - M9/UF2/01_Exercicis/Exercici3_Trens/Trens - alumne/Trens/obj/Debug/Trens.exe
+C:/Users/Roger/Dropbox/La Salle - 17_18/DAM - M9/UF2/01_Exercicis/Exercici3_Trens/Trens - alumne/Trens/obj/Debug/Trens.pdb
+C:/Users/Roger/Dropbox/La Salle - 17_18/DAM - M9/UF2/01_Exercicis/Exercici3_Trens/Trens - alumne/Trens/bin/Debug/Trens.exe
+C:/Users/Roger/Dropbox/La Salle - 17_18/DAM - M9/UF2/01_Exercicis/Exercici3_Trens/Trens - alumne/Trens/bin/Debug/Trens.pdb
+C:/Users/Roger/Dropbox/La Salle - 17_18/DAM - M9/UF2/01_Exercicis/Exercici3_Trens/Trens - alumne/Trens/obj/Debug/Trens.csprojResolveAssemblyReference.cache
+C:/Users/Roger/Dropbox/La Salle - 17_18/DAM - M9/UF2/02_Practiques/Pr3. Trens/Trens - alumne/Trens/bin/Debug/Trens.exe.config
+C:/Users/Roger/Dropbox/La Salle - 17_18/DAM - M9/UF2/02_Practiques/Pr3. Trens/Trens - alumne/Trens/obj/Debug/Trens.exe
+C:/Users/Roger/Dropbox/La Salle - 17_18/DAM - M9/UF2/02_Practiques/Pr3. Trens/Trens - alumne/Trens/obj/Debug/Trens.pdb
+/Users/nicolaszarcerogarcia/Downloads/Trens - alumne/Trens/bin/Debug/Trens.exe.config
+/Users/nicolaszarcerogarcia/Downloads/Trens - alumne/Trens/bin/Debug/Trens.exe
+/Users/nicolaszarcerogarcia/Downloads/Trens - alumne/Trens/bin/Debug/Trens.pdb
+/Users/nicolaszarcerogarcia/Downloads/Trens - alumne/Trens/obj/Debug/Trens.csproj.AssemblyReference.cache
+/Users/nicolaszarcerogarcia/Downloads/Trens - alumne/Trens/obj/Debug/Trens.csproj.CoreCompileInputs.cache
+/Users/nicolaszarcerogarcia/Downloads/Trens - alumne/Trens/obj/Debug/Trens.exe
+/Users/nicolaszarcerogarcia/Downloads/Trens - alumne/Trens/obj/Debug/Trens.pdb
