@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nicolaszarcerogarcia/Downloads/Atletisme/Atletisme/Atletisme.csproj": {}
+    "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Atletisme/Atletisme/Atletisme.csproj": {}
   },
   "projects": {
-    "/Users/nicolaszarcerogarcia/Downloads/Atletisme/Atletisme/Atletisme.csproj": {
+    "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Atletisme/Atletisme/Atletisme.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nicolaszarcerogarcia/Downloads/Atletisme/Atletisme/Atletisme.csproj",
+        "projectUniqueName": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Atletisme/Atletisme/Atletisme.csproj",
         "projectName": "Atletisme",
-        "projectPath": "/Users/nicolaszarcerogarcia/Downloads/Atletisme/Atletisme/Atletisme.csproj",
-        "packagesPath": "/Users/nicolaszarcerogarcia/.nuget/packages/",
-        "outputPath": "/Users/nicolaszarcerogarcia/Downloads/Atletisme/Atletisme/obj/",
+        "projectPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Atletisme/Atletisme/Atletisme.csproj",
+        "packagesPath": "/Users/joseantonioliebanadelgado/.nuget/packages/",
+        "outputPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Atletisme/Atletisme/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nicolaszarcerogarcia/.nuget/NuGet/NuGet.Config"
+          "/Users/joseantonioliebanadelgado/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

@@ -1,25 +1,24 @@
 ﻿<Properties StartupConfiguration="{E11CF8E4-B27E-4802-8752-769C417528FE}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Atletisme/Program.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Atletisme PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Parking/Parking/Program.cs">
     <Files>
-      <File FileName="Atletisme/Program.cs" Line="25" Column="41" />
+      <File FileName="../ComparadorTiempos/ComparadorTiempos/Program.cs" Line="1" Column="1" />
+      <File FileName="../Trens - alumne/Trens/Program.cs" Line="1" Column="1" />
+      <File FileName="Atletisme/Program.cs" Line="56" Column="43" />
+      <File FileName="../Parking/Parking/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Atletisme" expanded="True">
-            <Node name="Atletisme" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="Atletisme" expanded="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Atletisme PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
