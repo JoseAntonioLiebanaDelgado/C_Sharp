@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/nicolaszarcerogarcia/.nuget/packages/": {}
+    "/Users/joseantonioliebanadelgado/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nicolaszarcerogarcia/Downloads/Parking/Parking/Parking.csproj",
+      "projectUniqueName": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Parking/Parking/Parking.csproj",
       "projectName": "Parking",
-      "projectPath": "/Users/nicolaszarcerogarcia/Downloads/Parking/Parking/Parking.csproj",
-      "packagesPath": "/Users/nicolaszarcerogarcia/.nuget/packages/",
-      "outputPath": "/Users/nicolaszarcerogarcia/Downloads/Parking/Parking/obj/",
+      "projectPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Parking/Parking/Parking.csproj",
+      "packagesPath": "/Users/joseantonioliebanadelgado/.nuget/packages/",
+      "outputPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Parking/Parking/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/nicolaszarcerogarcia/.nuget/NuGet/NuGet.Config"
+        "/Users/joseantonioliebanadelgado/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

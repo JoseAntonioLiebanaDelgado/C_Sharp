@@ -23,3 +23,10 @@ C:/Users/Roger/Dropbox/La Salle - 17_18/DAM - M9/UF2/02_Practiques/Pr3. Trens/Tr
 /Users/nicolaszarcerogarcia/Downloads/Trens - alumne/Trens/obj/Debug/Trens.csproj.CoreCompileInputs.cache
 /Users/nicolaszarcerogarcia/Downloads/Trens - alumne/Trens/obj/Debug/Trens.exe
 /Users/nicolaszarcerogarcia/Downloads/Trens - alumne/Trens/obj/Debug/Trens.pdb
+/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Trens - alumne/Trens/bin/Debug/Trens.exe.config
+/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Trens - alumne/Trens/bin/Debug/Trens.exe
+/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Trens - alumne/Trens/bin/Debug/Trens.pdb
+/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Trens - alumne/Trens/obj/Debug/Trens.csproj.AssemblyReference.cache
+/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Trens - alumne/Trens/obj/Debug/Trens.csproj.CoreCompileInputs.cache
+/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Trens - alumne/Trens/obj/Debug/Trens.exe
+/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Trens - alumne/Trens/obj/Debug/Trens.pdb

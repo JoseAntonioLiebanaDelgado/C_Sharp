@@ -1,17 +1,15 @@
 ﻿<Properties StartupConfiguration="{E11CF8E4-B27E-4802-8752-769C417528FE}|Default">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Atletisme PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../Parking/Parking/Program.cs">
-    <Files>
-      <File FileName="../ComparadorTiempos/ComparadorTiempos/Program.cs" Line="1" Column="1" />
-      <File FileName="../Trens - alumne/Trens/Program.cs" Line="1" Column="1" />
-      <File FileName="Atletisme/Program.cs" Line="56" Column="43" />
-      <File FileName="../Parking/Parking/Program.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Atletisme" expanded="True" />
+          <Node name="Atletisme" expanded="True">
+            <Node name="Atletisme" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>

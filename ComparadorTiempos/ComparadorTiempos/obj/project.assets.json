@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/nicolaszarcerogarcia/.nuget/packages/": {}
+    "/Users/joseantonioliebanadelgado/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nicolaszarcerogarcia/Downloads/ComparadorTiempos/ComparadorTiempos/ComparadorTiempos.csproj",
+      "projectUniqueName": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/ComparadorTiempos/ComparadorTiempos/ComparadorTiempos.csproj",
       "projectName": "ComparadorTiempos",
-      "projectPath": "/Users/nicolaszarcerogarcia/Downloads/ComparadorTiempos/ComparadorTiempos/ComparadorTiempos.csproj",
-      "packagesPath": "/Users/nicolaszarcerogarcia/.nuget/packages/",
-      "outputPath": "/Users/nicolaszarcerogarcia/Downloads/ComparadorTiempos/ComparadorTiempos/obj/",
+      "projectPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/ComparadorTiempos/ComparadorTiempos/ComparadorTiempos.csproj",
+      "packagesPath": "/Users/joseantonioliebanadelgado/.nuget/packages/",
+      "outputPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/ComparadorTiempos/ComparadorTiempos/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/nicolaszarcerogarcia/.nuget/NuGet/NuGet.Config"
+        "/Users/joseantonioliebanadelgado/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

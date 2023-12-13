@@ -11,7 +11,7 @@ namespace Atletisme
         static void Main(string[] args)
         {
             // Sin relevos
-            Thread firstRunner = new Thread(() => corredor(1, "Nico"));
+            Thread firstRunner = new Thread(() => corredor(1, "Jose"));
             Thread secondRunner = new Thread(() => corredor(2, "Zarcero"));
             Thread thirdRunner = new Thread(() => corredor(3, "Garcia"));
             Thread fourthRunner = new Thread(() => corredor(4, "NZG"));
@@ -27,7 +27,7 @@ namespace Atletisme
             fourthRunner.Join();
             
             // Con relevos
-            firstRunner = new Thread(() => corredor(1, "Nico"));
+            firstRunner = new Thread(() => corredor(1, "Jose"));
             secondRunner = new Thread(() => corredor(2, "Zarcero"));
             thirdRunner = new Thread(() => corredor(3, "Garcia"));
             fourthRunner = new Thread(() => corredor(4, "NZG"));

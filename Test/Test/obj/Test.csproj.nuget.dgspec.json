@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nicolaszarcerogarcia/Projects/Test/Test/Test.csproj": {}
+    "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Test/Test/Test.csproj": {}
   },
   "projects": {
-    "/Users/nicolaszarcerogarcia/Projects/Test/Test/Test.csproj": {
+    "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Test/Test/Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nicolaszarcerogarcia/Projects/Test/Test/Test.csproj",
+        "projectUniqueName": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Test/Test/Test.csproj",
         "projectName": "Test",
-        "projectPath": "/Users/nicolaszarcerogarcia/Projects/Test/Test/Test.csproj",
-        "packagesPath": "/Users/nicolaszarcerogarcia/.nuget/packages/",
-        "outputPath": "/Users/nicolaszarcerogarcia/Projects/Test/Test/obj/",
+        "projectPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Test/Test/Test.csproj",
+        "packagesPath": "/Users/joseantonioliebanadelgado/.nuget/packages/",
+        "outputPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Test/Test/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nicolaszarcerogarcia/.nuget/NuGet/NuGet.Config"
+          "/Users/joseantonioliebanadelgado/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
