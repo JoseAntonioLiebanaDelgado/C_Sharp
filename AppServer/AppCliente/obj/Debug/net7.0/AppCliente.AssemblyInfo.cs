@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Sensors Transit")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("AppCliente")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Sensors Transit")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Sensors Transit")]
+[assembly: System.Reflection.AssemblyProductAttribute("AppCliente")]
+[assembly: System.Reflection.AssemblyTitleAttribute("AppCliente")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

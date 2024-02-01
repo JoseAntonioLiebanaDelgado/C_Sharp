@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jose\\Desktop\\Sensors Transit\\Sensors Transit\\Sensors Transit.csproj": {}
+    "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Sensors Transit - Liébana José Antonio/Sensors Transit/Sensors Transit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jose\\Desktop\\Sensors Transit\\Sensors Transit\\Sensors Transit.csproj": {
+    "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Sensors Transit - Liébana José Antonio/Sensors Transit/Sensors Transit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jose\\Desktop\\Sensors Transit\\Sensors Transit\\Sensors Transit.csproj",
+        "projectUniqueName": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Sensors Transit - Liébana José Antonio/Sensors Transit/Sensors Transit.csproj",
         "projectName": "Sensors Transit",
-        "projectPath": "C:\\Users\\jose\\Desktop\\Sensors Transit\\Sensors Transit\\Sensors Transit.csproj",
-        "packagesPath": "C:\\Users\\jose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jose\\Desktop\\Sensors Transit\\Sensors Transit\\obj\\",
+        "projectPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Sensors Transit - Liébana José Antonio/Sensors Transit/Sensors Transit.csproj",
+        "packagesPath": "/Users/joseantonioliebanadelgado/.nuget/packages/",
+        "outputPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jose\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/joseantonioliebanadelgado/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,12 +49,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
         }
       }
     }

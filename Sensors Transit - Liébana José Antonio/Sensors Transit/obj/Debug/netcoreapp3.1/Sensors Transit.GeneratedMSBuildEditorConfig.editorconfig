@@ -1,5 +1,3 @@
 is_global = true
 build_property.RootNamespace = Sensors_Transit
-build_property.ProjectDir = C:\Users\jose\Desktop\Sensors Transit - Liébana José Antonio\Sensors Transit\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = /Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Sensors Transit - Liébana José Antonio/Sensors Transit/

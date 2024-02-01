@@ -1,0 +1,15 @@
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppServer/bin/Debug/net7.0/AppServer
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppServer/bin/Debug/net7.0/AppServer.deps.json
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppServer/bin/Debug/net7.0/AppServer.runtimeconfig.json
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppServer/bin/Debug/net7.0/AppServer.dll
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppServer/bin/Debug/net7.0/AppServer.pdb
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppServer/obj/Debug/net7.0/AppServer.csproj.AssemblyReference.cache
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppServer/obj/Debug/net7.0/AppServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppServer/obj/Debug/net7.0/AppServer.AssemblyInfoInputs.cache
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppServer/obj/Debug/net7.0/AppServer.AssemblyInfo.cs
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppServer/obj/Debug/net7.0/AppServer.csproj.CoreCompileInputs.cache
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppServer/obj/Debug/net7.0/AppServer.dll
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppServer/obj/Debug/net7.0/refint/AppServer.dll
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppServer/obj/Debug/net7.0/AppServer.pdb
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppServer/obj/Debug/net7.0/AppServer.genruntimeconfig.cache
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppServer/obj/Debug/net7.0/ref/AppServer.dll

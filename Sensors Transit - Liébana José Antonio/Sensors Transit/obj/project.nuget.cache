@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "b38kp7UNlSIHWwdYflCMLr1Ny+nUtChA7i9jAmKDswu9TpDHS6AI5Xf94JgNnatt9QfKUpbxunf5XVK86tINLQ==",
+  "dgSpecHash": "9pa/cNGZW1HrVhp/Qg+PJgfqkg4AOSIB//mqGsZ8qbnuCi0jvEYlUSAxcRmfutFq3RyFol54dD/TX5qd1nd9EQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jose\\Desktop\\Sensors Transit\\Sensors Transit\\Sensors Transit.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Sensors Transit - Liébana José Antonio/Sensors Transit/Sensors Transit.csproj",
+  "expectedPackageFiles": [
+    "/Users/joseantonioliebanadelgado/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/joseantonioliebanadelgado/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/joseantonioliebanadelgado/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

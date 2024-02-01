@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../../BBDD" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../Bash_Script" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../Film_Project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../HTML5_CSS3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../InicioSwing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../JAVA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../JavaScript" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../Java_FX" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../JoseAntonioLiebanaDelgado" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../Kotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../PHP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../Python/FirstSteps_Python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../Swift" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../Swift/MangaShelf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../Tips" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../XML" vcs="Git" />
+  </component>
+</project>

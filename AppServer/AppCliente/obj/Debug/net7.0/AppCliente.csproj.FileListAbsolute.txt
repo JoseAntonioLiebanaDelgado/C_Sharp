@@ -1,0 +1,15 @@
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppCliente/bin/Debug/net7.0/AppCliente
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppCliente/bin/Debug/net7.0/AppCliente.deps.json
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppCliente/bin/Debug/net7.0/AppCliente.runtimeconfig.json
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppCliente/bin/Debug/net7.0/AppCliente.dll
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppCliente/bin/Debug/net7.0/AppCliente.pdb
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppCliente/obj/Debug/net7.0/AppCliente.csproj.AssemblyReference.cache
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppCliente/obj/Debug/net7.0/AppCliente.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppCliente/obj/Debug/net7.0/AppCliente.AssemblyInfoInputs.cache
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppCliente/obj/Debug/net7.0/AppCliente.AssemblyInfo.cs
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppCliente/obj/Debug/net7.0/AppCliente.csproj.CoreCompileInputs.cache
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppCliente/obj/Debug/net7.0/AppCliente.dll
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppCliente/obj/Debug/net7.0/refint/AppCliente.dll
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppCliente/obj/Debug/net7.0/AppCliente.pdb
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppCliente/obj/Debug/net7.0/AppCliente.genruntimeconfig.cache
+/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppCliente/obj/Debug/net7.0/ref/AppCliente.dll
