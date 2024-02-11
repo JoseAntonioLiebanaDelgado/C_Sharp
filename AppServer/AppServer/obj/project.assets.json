@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppServer/AppServer.csproj",
+      "projectUniqueName": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/AppServer/AppServer/AppServer.csproj",
       "projectName": "AppServer",
-      "projectPath": "/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppServer/AppServer.csproj",
+      "projectPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/AppServer/AppServer/AppServer.csproj",
       "packagesPath": "/Users/joseantonioliebanadelgado/.nuget/packages/",
-      "outputPath": "/Users/joseantonioliebanadelgado/RiderProjects/AppServer/AppServer/obj/",
+      "outputPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/AppServer/AppServer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/joseantonioliebanadelgado/.nuget/NuGet/NuGet.Config"
@@ -55,12 +55,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.15, 7.0.15]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-x64",
+            "version": "[7.0.15, 7.0.15]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.15, 7.0.15]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }
