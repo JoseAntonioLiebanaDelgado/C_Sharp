@@ -1,91 +1,113 @@
+
+
+
+/*Este código configura un servidor TCP que escucha las conexiones entrantes en una dirección IP y puerto específicos (127.0.0.1 en el puerto 11000).
+ El servidor puede manejar múltiples clientes simultáneamente gracias al uso de hilos. Para cada cliente que se conecta, 
+ el servidor inicia un nuevo hilo que maneja la comunicación con ese cliente. El servidor lee los mensajes enviados por el cliente, los procesa 
+ (en este caso, invirtiendo el contenido del mensaje), y luego envía una respuesta al cliente.
+
+ El servidor se ejecuta en un bucle infinito, aceptando conexiones de clientes continuamente.
+ Escucha de conexiones: El servidor comienza a escuchar conexiones entrantes en la dirección IP y puerto especificados.
+ Manejo de clientes: Por cada cliente que se conecta, se crea un nuevo hilo para manejar la comunicación de manera independiente.
+ Procesamiento de mensajes: El servidor recibe mensajes de los clientes, los procesa (invierte el mensaje) y envía una respuesta.
+ Concurrencia: El uso de hilos permite al servidor manejar múltiples conexiones de clientes al mismo tiempo.*/
+
+
+
+// Importa las librerías necesarias para trabajar con redes, codificación de texto y hilos
 using System;
 using System.Net.Sockets;
 using System.Net;
 using System.Text;
 using System.Threading;
 
+// Define el espacio de nombres para la organización del código
 namespace Server
 {
+    // Define la clase Program dentro del espacio de nombres Server
     class Program
     {
+        // Método principal que se ejecuta al iniciar el programa
         static void Main(string[] args)
         {
-            // Imprimir en consola que el servidor está iniciando
+            // Imprime un mensaje en la consola indicando que el servidor se está iniciando
             Console.WriteLine("Server: Starting server...");
 
-            // Definir la dirección IP y el puerto para el servidor
+            // Define la dirección IP y el puerto en el que el servidor escuchará
             IPAddress myIPAddress = IPAddress.Parse("127.0.0.1");
             int myPort = 11000;
 
-            // Crear un nuevo escuchador TCP (TcpListener) y comenzar a escuchar en la IP y puerto definidos
+            // Crea un nuevo objeto TcpListener para escuchar conexiones en la IP y puerto definidos
             TcpListener server = new TcpListener(myIPAddress, myPort);
-            server.Start(); // Iniciar el escuchador
+            server.Start(); // Inicia el escuchador
 
-            // Imprimir en consola que el servidor está esperando conexiones
+            // Muestra un mensaje indicando que el servidor está listo y esperando conexiones
             Console.WriteLine("Server: Server Open, Waiting for a connection...");
 
             try
             {
-                // Bucle infinito para aceptar conexiones de clientes de manera continua
+                // Bucle infinito para aceptar conexiones de clientes continuamente
                 while (true)
                 {
-                    // Aceptar un cliente que intenta conectarse
+                    // Acepta una conexión de cliente entrante
                     TcpClient client = server.AcceptTcpClient();
                     Console.WriteLine("Server: Client connected!");
 
-                    // Por cada cliente conectado, se crea un nuevo hilo (Thread) que manejará la comunicación con ese cliente
+                    //Creamos un hilo para manejar la conexion con el cliente conectado
+                    //Esta linea lo que hace es crear un nuevo hilo que ejecutará el método HandleClient
+                    //HandleClient es el método que se encargará de manejar la conexión con el cliente
                     Thread clientThread = new Thread(new ParameterizedThreadStart(HandleClient));
-                    clientThread.Start(client); // Iniciar el hilo con el cliente como parámetro
+                    clientThread.Start(client); // Inicia el hilo pasando el objeto TcpClient como argumento
                 }
             }
             catch (Exception e)
             {
-                // Capturar y manejar cualquier excepción que pueda ocurrir en el servidor
+                // Captura y maneja cualquier excepción que ocurra
                 Console.WriteLine("Server: An exception occurred: " + e.Message);
-                server.Stop(); // Detener el servidor en caso de una excepción
+                server.Stop(); // Detiene el escuchador en caso de una excepción
             }
         }
 
-        // Método que maneja la comunicación con el cliente
+        // Método para manejar la comunicación con un cliente
         private static void HandleClient(object obj)
         {
-            // Convertir el objeto recibido a TcpClient
+            // Convierte el argumento a un objeto TcpClient
             TcpClient client = (TcpClient)obj;
             try
             {
-                // Obtener el flujo de red asociado con el cliente para enviar y recibir datos
+                // Obtiene el flujo de red asociado al cliente para enviar y recibir datos
                 NetworkStream stream = client.GetStream();
 
-                // Buffer para almacenar los datos recibidos del cliente
+                // Define un buffer para almacenar los datos recibidos del cliente
                 byte[] buffer = new byte[256];
 
-                // Bucle para leer los datos del cliente continuamente
+                // Bucle para leer datos del cliente continuamente
                 while (true)
                 {
-                    // Leer los datos del flujo de red y almacenar el número de bytes leídos
+                    // Lee los datos enviados por el cliente
                     int bytesRead = stream.Read(buffer, 0, buffer.Length);
-                    if (bytesRead == 0) break; // Si no se leen bytes, el cliente se ha desconectado
+                    if (bytesRead == 0) break; // Si no se leen datos, significa que el cliente se ha desconectado
 
-                    // Convertir los bytes recibidos a un string
+                    // Convierte los bytes leídos a una cadena de texto
                     string message = Encoding.Unicode.GetString(buffer, 0, bytesRead);
                     Console.WriteLine("Server: Message received: " + message);
 
-                    // Invertir el mensaje y convertirlo de nuevo a un array de bytes
+                    // Invierte el mensaje recibido y lo codifica en bytes
                     string reversedMessage = ReverseString(message);
                     byte[] response = Encoding.Unicode.GetBytes(reversedMessage);
 
-                    // Enviar la respuesta al cliente
+                    // Envía la respuesta al cliente
                     stream.Write(response, 0, response.Length);
                 }
             }
             catch (Exception e)
             {
-                // Capturar y manejar cualquier excepción específica de este cliente
+                // Captura y maneja cualquier excepción que ocurra con este cliente en particular
                 Console.WriteLine("Server: An exception occurred with a client: " + e.Message);
             }
             finally
             {
-                // Cerrar la conexión con el cliente correctamente
+                // Cierra la conexión con el cliente de forma limpia
                 client.Close();
             }
         }
@@ -93,7 +115,7 @@ namespace Server
         // Método para invertir un string
         private static string ReverseString(string s)
         {
-            // Convertir el string a un array de caracteres, invertirlo y convertirlo de nuevo a string
+            // Convierte el string a un array de caracteres, lo invierte y lo convierte de nuevo a string
             char[] charArray = s.ToCharArray();
             Array.Reverse(charArray);
             return new string(charArray);

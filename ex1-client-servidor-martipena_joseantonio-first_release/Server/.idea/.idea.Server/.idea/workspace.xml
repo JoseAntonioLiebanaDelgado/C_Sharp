@@ -10,30 +10,368 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f439f241-acf9-49ff-9a83-bf048dc61da1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Client/obj/Client.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/obj/Client.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/obj/Client.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/obj/Client.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/obj/Debug/net8.0/Client.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/obj/Debug/net8.0/Client.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/obj/Debug/net8.0/Client.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/obj/Debug/net8.0/Client.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/obj/Debug/net8.0/Client.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/obj/Debug/net8.0/Client.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/obj/Debug/net8.0/Client.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/obj/Debug/net8.0/Client.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/Server.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/Server.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/Server.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/Server.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/Server.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/Server.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/Server.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/Server.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Server.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Server.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Server.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Server.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simulador/obj/Debug/net8.0/Simulador.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Simulador/obj/Debug/net8.0/Simulador.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simulador/obj/Debug/net8.0/Simulador.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Simulador/obj/Debug/net8.0/Simulador.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simulador/obj/Debug/net8.0/Simulador.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../Simulador/obj/Debug/net8.0/Simulador.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simulador/obj/Debug/net8.0/Simulador.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Simulador/obj/Debug/net8.0/Simulador.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simulador/obj/Simulador.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Simulador/obj/Simulador.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simulador/obj/Simulador.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Simulador/obj/Simulador.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simulador/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Simulador/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simulador/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Simulador/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/.idea/.idea.ComparadorTiempos/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/.idea/.idea.ComparadorTiempos/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/.idea/.idea.ComparadorTiempos/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/.vs/ComparadorTiempos/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/.vs/ComparadorTiempos/v17/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/.vs/ComparadorTiempos/xs/UserPrefs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/.vs/ComparadorTiempos/xs/project-cache/ComparadorTiempos-Debug.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/.vs/ComparadorTiempos/xs/UserPrefs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/.vs/ComparadorTiempos/xs/project-cache/ComparadorTiempos-Debug.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/ComparadorTiempos.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/ComparadorTiempos.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/bin/Debug/net6.0/ComparadorTiempos" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/bin/Debug/net6.0/ComparadorTiempos.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/bin/Debug/net6.0/ComparadorTiempos.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/bin/Debug/net6.0/ComparadorTiempos.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/bin/Debug/net6.0/ComparadorTiempos.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/bin/Debug/net6.0/ComparadorTiempos.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/bin/Debug/net6.0/ref/ComparadorTiempos.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/obj/ComparadorTiempos.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/obj/ComparadorTiempos.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/obj/ComparadorTiempos.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/apphost" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ref/ComparadorTiempos.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/refint/ComparadorTiempos.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/ComparadorTiempos/ComparadorTiempos/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/.idea/.idea.Parking/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/.idea/.idea.Parking/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/.idea/.idea.Parking/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/.vs/Parking/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/.vs/Parking/v17/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/.vs/Parking/xs/UserPrefs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/.vs/Parking/xs/project-cache/Parking-Debug.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/Parking.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/Parking.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/bin/Debug/net6.0/Parking" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/bin/Debug/net6.0/Parking.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/bin/Debug/net6.0/Parking.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/bin/Debug/net6.0/Parking.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/bin/Debug/net6.0/Parking.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/bin/Debug/net6.0/Parking.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/bin/Debug/net6.0/ref/Parking.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/obj/Debug/net6.0/Parking.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/obj/Debug/net6.0/Parking.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/obj/Debug/net6.0/Parking.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/obj/Debug/net6.0/Parking.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/obj/Debug/net6.0/Parking.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/obj/Debug/net6.0/Parking.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/obj/Debug/net6.0/Parking.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/obj/Debug/net6.0/Parking.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/obj/Debug/net6.0/Parking.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/obj/Debug/net6.0/Parking.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/obj/Debug/net6.0/apphost" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/obj/Debug/net6.0/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/obj/Debug/net6.0/ref/Parking.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/obj/Debug/net6.0/refint/Parking.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/obj/Parking.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/obj/Parking.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/obj/Parking.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Parking/Parking/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/.idea/.idea.Sensors Transit/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/.idea/.idea.Sensors Transit/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/.idea/.idea.Sensors Transit/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/.idea/.idea.Sensors Transit/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/.idea/.idea.Sensors Transit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/.vs/ProjectEvaluation/sensors transit.metadata.v7.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/.vs/ProjectEvaluation/sensors transit.projects.v7.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/.vs/Sensors Transit/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/.vs/Sensors Transit/FileContentIndex/9b83a1a3-eff3-4cdb-a161-d089d25bdad7.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/.vs/Sensors Transit/v16/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/.vs/Sensors Transit/v17/.futdcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/.vs/Sensors Transit/v17/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/.vs/Sensors Transit/FileContentIndex/7d607c27-c92f-484b-a248-2b630e25e38d.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/.vs/Sensors Transit/FileContentIndex/9bba2ec6-2ff5-4782-bb51-73d66ce65ae7.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/.vs/Sensors Transit/v17/.wsuo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/.vs/slnx.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/Sensors Transit.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/bin/Debug/netcoreapp3.1/Sensors Transit.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/bin/Debug/netcoreapp3.1/Sensors Transit.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/bin/Debug/netcoreapp3.1/Sensors Transit.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/bin/Debug/netcoreapp3.1/Sensors Transit.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/bin/Debug/netcoreapp3.1/Sensors Transit.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/bin/Debug/netcoreapp3.1/Sensors Transit.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/apphost" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Release/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Release/netcoreapp3.1/Sensors Transit.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Release/netcoreapp3.1/Sensors Transit.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Release/netcoreapp3.1/Sensors Transit.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Release/netcoreapp3.1/Sensors Transit.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Sensors Transit.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Sensors Transit.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Sensors Transit.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Sensors Transit - Liébana José Antonio/Sensors Transit/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/.idea/.idea.Trens/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/.idea/.idea.Trens/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/.idea/.idea.Trens/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/.idea/.idea.Trens/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/.vs/Trens/v14/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/.vs/Trens/xs/UserPrefs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/.vs/Trens/xs/project-cache/Trens-Debug.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/.idea/.idea.Trens/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/.idea/.idea.Trens/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/.idea/.idea.Trens/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/.idea/.idea.Trens/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/.vs/Trens/xs/UserPrefs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/.vs/Trens/xs/project-cache/Trens-Debug.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/App.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/Trens.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/Trens.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/bin/Debug/Trens.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/bin/Debug/Trens.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/bin/Debug/Trens.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/bin/Debug/Trens.vshost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/bin/Debug/Trens.vshost.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/bin/Debug/Trens.vshost.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/obj/Debug/Trens.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/obj/Debug/Trens.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/obj/Debug/Trens.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/obj/Debug/Trens.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/obj/Debug/Trens.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UF2/Trens/Trens/obj/Debug/Trens.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Server/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Server/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServer/AppCliente/obj/Debug/net7.0/AppCliente.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../AppServer/AppCliente/obj/Debug/net7.0/AppCliente.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServer/AppCliente/obj/Debug/net7.0/AppCliente.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../AppServer/AppCliente/obj/Debug/net7.0/AppCliente.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServer/AppCliente/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../../AppServer/AppCliente/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServer/AppServer/obj/Debug/net7.0/AppServer.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../AppServer/AppServer/obj/Debug/net7.0/AppServer.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServer/AppServer/obj/Debug/net7.0/AppServer.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../AppServer/AppServer/obj/Debug/net7.0/AppServer.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServer/AppServer/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../../AppServer/AppServer/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/.idea/.idea.ComparadorTiempos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/.idea/.idea.ComparadorTiempos/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/.idea/.idea.ComparadorTiempos/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/.vs/ComparadorTiempos/DesignTimeBuild/.dtbcache.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/.vs/ComparadorTiempos/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/.vs/ComparadorTiempos/xs/UserPrefs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/.vs/ComparadorTiempos/xs/project-cache/ComparadorTiempos-Debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/.vs/ComparadorTiempos/xs/UserPrefs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/.vs/ComparadorTiempos/xs/project-cache/ComparadorTiempos-Debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/ComparadorTiempos.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/ComparadorTiempos.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/bin/Debug/net6.0/ComparadorTiempos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/bin/Debug/net6.0/ComparadorTiempos.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/bin/Debug/net6.0/ComparadorTiempos.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/bin/Debug/net6.0/ComparadorTiempos.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/bin/Debug/net6.0/ComparadorTiempos.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/bin/Debug/net6.0/ComparadorTiempos.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/bin/Debug/net6.0/ref/ComparadorTiempos.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/obj/ComparadorTiempos.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/obj/ComparadorTiempos.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/obj/ComparadorTiempos.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ComparadorTiempos.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/apphost" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/ref/ComparadorTiempos.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/obj/Debug/net6.0/refint/ComparadorTiempos.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/obj/rider.project.model.nuget.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ComparadorTiempos/ComparadorTiempos/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/.idea/.idea.Parking/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/.idea/.idea.Parking/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/.idea/.idea.Parking/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/.vs/Parking/DesignTimeBuild/.dtbcache.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/.vs/Parking/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/.vs/Parking/xs/UserPrefs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/.vs/Parking/xs/project-cache/Parking-Debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/Parking.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/Parking.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/bin/Debug/net6.0/Parking" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/bin/Debug/net6.0/Parking.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/bin/Debug/net6.0/Parking.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/bin/Debug/net6.0/Parking.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/bin/Debug/net6.0/Parking.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/bin/Debug/net6.0/Parking.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/bin/Debug/net6.0/ref/Parking.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/obj/Debug/net6.0/Parking.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/obj/Debug/net6.0/Parking.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/obj/Debug/net6.0/Parking.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/obj/Debug/net6.0/Parking.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/obj/Debug/net6.0/Parking.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/obj/Debug/net6.0/Parking.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/obj/Debug/net6.0/Parking.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/obj/Debug/net6.0/Parking.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/obj/Debug/net6.0/Parking.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/obj/Debug/net6.0/Parking.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/obj/Debug/net6.0/apphost" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/obj/Debug/net6.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/obj/Debug/net6.0/ref/Parking.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/obj/Debug/net6.0/refint/Parking.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/obj/Parking.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/obj/Parking.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/obj/Parking.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/obj/rider.project.model.nuget.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parking/Parking/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/.idea/.idea.Sensors Transit/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/.idea/.idea.Sensors Transit/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/.idea/.idea.Sensors Transit/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/.idea/.idea.Sensors Transit/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/.idea/.idea.Sensors Transit/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/.vs/ProjectEvaluation/sensors transit.metadata.v7.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/.vs/ProjectEvaluation/sensors transit.projects.v7.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/.vs/Sensors Transit/DesignTimeBuild/.dtbcache.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/.vs/Sensors Transit/FileContentIndex/9b83a1a3-eff3-4cdb-a161-d089d25bdad7.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/.vs/Sensors Transit/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/.vs/Sensors Transit/v17/.futdcache.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/.vs/Sensors Transit/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/.vs/Sensors Transit/FileContentIndex/7d607c27-c92f-484b-a248-2b630e25e38d.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/.vs/Sensors Transit/FileContentIndex/9bba2ec6-2ff5-4782-bb51-73d66ce65ae7.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/.vs/Sensors Transit/v17/.wsuo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/.vs/VSWorkspaceState.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/.vs/slnx.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/Sensors Transit.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/bin/Debug/netcoreapp3.1/Sensors Transit.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/bin/Debug/netcoreapp3.1/Sensors Transit.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/bin/Debug/netcoreapp3.1/Sensors Transit.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/bin/Debug/netcoreapp3.1/Sensors Transit.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/bin/Debug/netcoreapp3.1/Sensors Transit.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/bin/Debug/netcoreapp3.1/Sensors Transit.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.csproj.BuildWithSkipAnalyzers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/apphost" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Debug/netcoreapp3.1/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Release/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Release/netcoreapp3.1/Sensors Transit.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Release/netcoreapp3.1/Sensors Transit.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Release/netcoreapp3.1/Sensors Transit.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Release/netcoreapp3.1/Sensors Transit.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Sensors Transit.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Sensors Transit.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/Sensors Transit.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/rider.project.model.nuget.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sensors Transit - Liébana José Antonio/Sensors Transit/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/.idea/.idea.Trens/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/.idea/.idea.Trens/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/.idea/.idea.Trens/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/.idea/.idea.Trens/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/.vs/Trens/v14/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/.vs/Trens/xs/UserPrefs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/.vs/Trens/xs/project-cache/Trens-Debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/.idea/.idea.Trens/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/.idea/.idea.Trens/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/.idea/.idea.Trens/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/.idea/.idea.Trens/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/.vs/Trens/xs/UserPrefs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/.vs/Trens/xs/project-cache/Trens-Debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/Trens.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/Trens.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/bin/Debug/Trens.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/bin/Debug/Trens.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/bin/Debug/Trens.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/bin/Debug/Trens.vshost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/bin/Debug/Trens.vshost.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/bin/Debug/Trens.vshost.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/obj/Debug/Trens.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/obj/Debug/Trens.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/obj/Debug/Trens.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/obj/Debug/Trens.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/obj/Debug/Trens.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Trens/Trens/obj/Debug/Trens.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulador/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Simulador/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,30 +386,34 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2c5jZT6rjAO9rsAZGJeG0gl4XNI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.Server.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.Server.executor&quot;: &quot;Run&quot;,
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "/Users/joseantonioliebanadelgado/Library/Application Support/JetBrains/Rider2023.3/resharper-host/DecompilerCache",
-      "/Users/joseantonioliebanadelgado/Library/Application Support/JetBrains/Rider2023.3/resharper-host/SourcesCache",
-      "/Users/joseantonioliebanadelgado/.local/share/Symbols/src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;/Users/joseantonioliebanadelgado/Library/Application Support/JetBrains/Rider2023.3/resharper-host/DecompilerCache&quot;,
+      &quot;/Users/joseantonioliebanadelgado/Library/Application Support/JetBrains/Rider2023.3/resharper-host/SourcesCache&quot;,
+      &quot;/Users/joseantonioliebanadelgado/.local/share/Symbols/src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Project.Server">
     <configuration name="Client" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -139,6 +481,9 @@
       <workItem from="1707408393192" duration="74000" />
       <workItem from="1707408488811" duration="63000" />
       <workItem from="1707408554427" duration="725000" />
+      <workItem from="1708769047744" duration="189000" />
+      <workItem from="1708769254414" duration="1321000" />
+      <workItem from="1708786940216" duration="2080000" />
     </task>
     <servers />
   </component>
@@ -146,6 +491,7 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>
