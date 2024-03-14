@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joseantonioliebanadelgado/Desktop/Parxis/test/Client.csproj",
+      "projectUniqueName": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/UF3/Parxis/test/Client.csproj",
       "projectName": "Client",
-      "projectPath": "/Users/joseantonioliebanadelgado/Desktop/Parxis/test/Client.csproj",
+      "projectPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/UF3/Parxis/test/Client.csproj",
       "packagesPath": "/Users/joseantonioliebanadelgado/.nuget/packages/",
-      "outputPath": "/Users/joseantonioliebanadelgado/Desktop/Parxis/test/obj/",
+      "outputPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/UF3/Parxis/test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/joseantonioliebanadelgado/.nuget/NuGet/NuGet.Config"

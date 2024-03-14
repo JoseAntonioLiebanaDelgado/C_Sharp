@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e0QHS9NQTUJ2G8YTjfD1upukeJcQi1MI/wRqs+JLc6lcX2uo23hKGVbTQ8wcRggI9lLnAoa0lZ/g1BBCctz5HQ==",
+  "dgSpecHash": "1zj28PMzEig3+Apzebw0BEIu0FtXakEzGKEP1UWdTHPqjTXKO6/Sx6WOyM08EDlP0g5Ij/bvqUa67UwzkjLHlA==",
   "success": true,
-  "projectFilePath": "/Users/joseantonioliebanadelgado/Desktop/Parxis/Server/Server.csproj",
+  "projectFilePath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/UF3/Parxis/Server/Server.csproj",
   "expectedPackageFiles": [
     "/Users/joseantonioliebanadelgado/.nuget/packages/microsoft.netcore.app.ref/6.0.26/microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
     "/Users/joseantonioliebanadelgado/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.26/microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",

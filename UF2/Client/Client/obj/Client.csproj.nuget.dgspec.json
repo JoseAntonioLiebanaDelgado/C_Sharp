@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Client/Client/Client.csproj": {}
+    "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/UF3/Client/Client/Client.csproj": {}
   },
   "projects": {
-    "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Client/Client/Client.csproj": {
+    "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/UF3/Client/Client/Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Client/Client/Client.csproj",
+        "projectUniqueName": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/UF3/Client/Client/Client.csproj",
         "projectName": "Client",
-        "projectPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Client/Client/Client.csproj",
+        "projectPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/UF3/Client/Client/Client.csproj",
         "packagesPath": "/Users/joseantonioliebanadelgado/.nuget/packages/",
-        "outputPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/Client/Client/obj/",
+        "outputPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/UF3/Client/Client/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/joseantonioliebanadelgado/.nuget/NuGet/NuGet.Config"
@@ -49,12 +49,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }
