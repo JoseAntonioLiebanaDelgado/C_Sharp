@@ -1,8 +1,8 @@
 ﻿
 
 
-/*Este código implementa un cliente TCP básico que se conecta a un servidor TCP en una dirección IP y puerto específicos (en este caso,
- 127.0.0.1 en el puerto 11000).
+/*Este código implementa un cliente TCP básico que se conecta a un servidor TCP en una dirección IP y puerto específicos
+ (en este caso, 127.0.0.1 en el puerto 11000).
  Una vez establecida la conexión, el cliente puede recibir y enviar mensajes al servidor.
  Utiliza hilos (Threads) para manejar simultáneamente la lectura y escritura de mensajes,
  permitiendo así que el cliente pueda enviar mensajes mientras espera recibirlos.
@@ -51,7 +51,7 @@ namespace Client
 
             // Obtiene el flujo de red asociado al cliente TCP,
             // en otras palabras, el canal de comunicación con el servidor
-            // Creamos una variable de tipo NetworkStream llamada MyNetworkStreamy
+            // Creamos una variable de tipo NetworkStream llamada MyNetworkStream y
             // y le asignamos el valor de Client.GetStream()
             NetworkStream MyNetworkStream = Client.GetStream();
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/AppServer/AppCliente/AppCliente.csproj": {}
+    "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/UF3/AppServer/AppCliente/AppCliente.csproj": {}
   },
   "projects": {
-    "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/AppServer/AppCliente/AppCliente.csproj": {
+    "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/UF3/AppServer/AppCliente/AppCliente.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/AppServer/AppCliente/AppCliente.csproj",
+        "projectUniqueName": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/UF3/AppServer/AppCliente/AppCliente.csproj",
         "projectName": "AppCliente",
-        "projectPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/AppServer/AppCliente/AppCliente.csproj",
+        "projectPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/UF3/AppServer/AppCliente/AppCliente.csproj",
         "packagesPath": "/Users/joseantonioliebanadelgado/.nuget/packages/",
-        "outputPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/AppServer/AppCliente/obj/",
+        "outputPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/UF3/AppServer/AppCliente/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/joseantonioliebanadelgado/.nuget/NuGet/NuGet.Config"

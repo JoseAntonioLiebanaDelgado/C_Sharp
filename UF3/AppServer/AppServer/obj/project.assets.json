@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/AppServer/AppServer/AppServer.csproj",
+      "projectUniqueName": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/UF3/AppServer/AppServer/AppServer.csproj",
       "projectName": "AppServer",
-      "projectPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/AppServer/AppServer/AppServer.csproj",
+      "projectPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/UF3/AppServer/AppServer/AppServer.csproj",
       "packagesPath": "/Users/joseantonioliebanadelgado/.nuget/packages/",
-      "outputPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/AppServer/AppServer/obj/",
+      "outputPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/UF3/AppServer/AppServer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/joseantonioliebanadelgado/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u9yZRk/yX2oc2nH3pHquOPIUZ7gVuX44V4Q5O/dxol5hCgDZzU73oa0Q5Pn+mY9M44LM/0rohmnPfMfIZG1JYw==",
+  "dgSpecHash": "ev+dU/XDBmfgj18LRPuh952CdWd3eDKkbEAxYxDIOSwOYNwkNEnKvDT9/UWGzIsmYo4MR0HDaQc+ieiqK63tUQ==",
   "success": true,
-  "projectFilePath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/AppServer/AppCliente/AppCliente.csproj",
+  "projectFilePath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/UF3/AppServer/AppCliente/AppCliente.csproj",
   "expectedPackageFiles": [
     "/Users/joseantonioliebanadelgado/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
     "/Users/joseantonioliebanadelgado/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",

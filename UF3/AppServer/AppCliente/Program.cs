@@ -10,7 +10,7 @@ namespace Client
         {
             Console.WriteLine("Inicializando cliente...");
 
-            // Deinimos el IP y el puerto del servidor
+            // Definimos el IP y el puerto del servidor
             IPAddress ServerIP;
             ServerIP = IPAddress.Parse("127.0.0.1");
             int MyPort = 11000;
