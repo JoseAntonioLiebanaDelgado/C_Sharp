@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0d070eb-b623-4cfa-9692-7669a8f54869" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/AppServer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parxis/.idea/Parxis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parxis/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parxis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parxis/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1-client-servidor-martipena_joseantonio-first_release/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1-client-servidor-martipena_joseantonio-first_release/.idea/ex1-client-servidor-martipena_joseantonio-first_release.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1-client-servidor-martipena_joseantonio-first_release/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1-client-servidor-martipena_joseantonio-first_release/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1-client-servidor-martipena_joseantonio-first_release/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppCliente/obj/Debug/net7.0/AppCliente.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AppCliente/obj/Debug/net7.0/AppCliente.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppCliente/obj/Debug/net7.0/AppCliente.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AppCliente/obj/Debug/net7.0/AppCliente.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppServer/obj/Debug/net7.0/AppServer.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AppServer/obj/Debug/net7.0/AppServer.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppServer/obj/Debug/net7.0/AppServer.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AppServer/obj/Debug/net7.0/AppServer.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parxis/Server/obj/Debug/net6.0/Server.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Parxis/Server/obj/Debug/net6.0/Server.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parxis/Server/obj/Debug/net6.0/Server.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Parxis/Server/obj/Debug/net6.0/Server.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parxis/test/obj/Debug/netcoreapp3.1/Client.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Parxis/test/obj/Debug/netcoreapp3.1/Client.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parxis/test/obj/Debug/netcoreapp3.1/Client.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Parxis/test/obj/Debug/netcoreapp3.1/Client.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex1-client-servidor-martipena_joseantonio-first_release/Server/.idea/.idea.Server/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ex1-client-servidor-martipena_joseantonio-first_release/Server/.idea/.idea.Server/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex1-client-servidor-martipena_joseantonio-first_release/Server/.idea/.idea.Server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ex1-client-servidor-martipena_joseantonio-first_release/Server/.idea/.idea.Server/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2dxsQoWz2W8HvpZUN8wpof2CcrN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/UF3/AppServer"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0d070eb-b623-4cfa-9692-7669a8f54869" name="Changes" comment="" />
+      <created>1710961052366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710961052366</updated>
+    </task>
+    <servers />
+  </component>
+</project>
