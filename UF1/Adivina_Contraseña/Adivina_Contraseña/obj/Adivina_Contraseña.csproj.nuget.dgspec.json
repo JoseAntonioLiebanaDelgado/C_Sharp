@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/joseantonioliebanadelgado/Desktop/Adivina_Contraseña/Adivina_Contraseña/Adivina_Contraseña.csproj": {}
+    "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/UF1/Adivina_Contraseña/Adivina_Contraseña/Adivina_Contraseña.csproj": {}
   },
   "projects": {
-    "/Users/joseantonioliebanadelgado/Desktop/Adivina_Contraseña/Adivina_Contraseña/Adivina_Contraseña.csproj": {
+    "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/UF1/Adivina_Contraseña/Adivina_Contraseña/Adivina_Contraseña.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/joseantonioliebanadelgado/Desktop/Adivina_Contraseña/Adivina_Contraseña/Adivina_Contraseña.csproj",
+        "projectUniqueName": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/UF1/Adivina_Contraseña/Adivina_Contraseña/Adivina_Contraseña.csproj",
         "projectName": "Adivina_Contraseña",
-        "projectPath": "/Users/joseantonioliebanadelgado/Desktop/Adivina_Contraseña/Adivina_Contraseña/Adivina_Contraseña.csproj",
+        "projectPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/UF1/Adivina_Contraseña/Adivina_Contraseña/Adivina_Contraseña.csproj",
         "packagesPath": "/Users/joseantonioliebanadelgado/.nuget/packages/",
-        "outputPath": "/Users/joseantonioliebanadelgado/Desktop/Adivina_Contraseña/Adivina_Contraseña/obj/",
+        "outputPath": "/Users/joseantonioliebanadelgado/Documents/Developer/C_Sharp/UF1/Adivina_Contraseña/Adivina_Contraseña/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/joseantonioliebanadelgado/.nuget/NuGet/NuGet.Config"
