@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_3_Emisor", "Ejercicio_3_Emisor\Ejercicio_3_Emisor.csproj", "{46C3A57A-2B95-49AD-BFFF-836C9B6F8D14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Receptor", "Receptor\Receptor.csproj", "{81504CDE-2514-4718-A42A-2A834FDA308D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46C3A57A-2B95-49AD-BFFF-836C9B6F8D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C3A57A-2B95-49AD-BFFF-836C9B6F8D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C3A57A-2B95-49AD-BFFF-836C9B6F8D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C3A57A-2B95-49AD-BFFF-836C9B6F8D14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81504CDE-2514-4718-A42A-2A834FDA308D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81504CDE-2514-4718-A42A-2A834FDA308D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81504CDE-2514-4718-A42A-2A834FDA308D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81504CDE-2514-4718-A42A-2A834FDA308D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

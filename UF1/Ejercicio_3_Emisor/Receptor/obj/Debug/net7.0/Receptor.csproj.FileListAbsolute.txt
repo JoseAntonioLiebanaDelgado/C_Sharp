@@ -1,0 +1,15 @@
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Receptor/bin/Debug/net7.0/Receptor
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Receptor/bin/Debug/net7.0/Receptor.deps.json
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Receptor/bin/Debug/net7.0/Receptor.runtimeconfig.json
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Receptor/bin/Debug/net7.0/Receptor.dll
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Receptor/bin/Debug/net7.0/Receptor.pdb
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Receptor/obj/Debug/net7.0/Receptor.csproj.AssemblyReference.cache
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Receptor/obj/Debug/net7.0/Receptor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Receptor/obj/Debug/net7.0/Receptor.AssemblyInfoInputs.cache
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Receptor/obj/Debug/net7.0/Receptor.AssemblyInfo.cs
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Receptor/obj/Debug/net7.0/Receptor.csproj.CoreCompileInputs.cache
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Receptor/obj/Debug/net7.0/Receptor.dll
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Receptor/obj/Debug/net7.0/refint/Receptor.dll
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Receptor/obj/Debug/net7.0/Receptor.pdb
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Receptor/obj/Debug/net7.0/Receptor.genruntimeconfig.cache
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Receptor/obj/Debug/net7.0/ref/Receptor.dll

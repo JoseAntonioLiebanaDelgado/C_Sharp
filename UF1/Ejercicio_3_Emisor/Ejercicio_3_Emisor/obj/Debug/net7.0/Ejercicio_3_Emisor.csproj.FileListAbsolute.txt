@@ -1,0 +1,15 @@
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Ejercicio_3_Emisor/bin/Debug/net7.0/Ejercicio_3_Emisor
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Ejercicio_3_Emisor/bin/Debug/net7.0/Ejercicio_3_Emisor.deps.json
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Ejercicio_3_Emisor/bin/Debug/net7.0/Ejercicio_3_Emisor.runtimeconfig.json
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Ejercicio_3_Emisor/bin/Debug/net7.0/Ejercicio_3_Emisor.dll
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Ejercicio_3_Emisor/bin/Debug/net7.0/Ejercicio_3_Emisor.pdb
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Ejercicio_3_Emisor/obj/Debug/net7.0/Ejercicio_3_Emisor.csproj.AssemblyReference.cache
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Ejercicio_3_Emisor/obj/Debug/net7.0/Ejercicio_3_Emisor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Ejercicio_3_Emisor/obj/Debug/net7.0/Ejercicio_3_Emisor.AssemblyInfoInputs.cache
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Ejercicio_3_Emisor/obj/Debug/net7.0/Ejercicio_3_Emisor.AssemblyInfo.cs
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Ejercicio_3_Emisor/obj/Debug/net7.0/Ejercicio_3_Emisor.csproj.CoreCompileInputs.cache
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Ejercicio_3_Emisor/obj/Debug/net7.0/Ejercicio_3_Emisor.dll
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Ejercicio_3_Emisor/obj/Debug/net7.0/refint/Ejercicio_3_Emisor.dll
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Ejercicio_3_Emisor/obj/Debug/net7.0/Ejercicio_3_Emisor.pdb
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Ejercicio_3_Emisor/obj/Debug/net7.0/Ejercicio_3_Emisor.genruntimeconfig.cache
+/Users/joseantonioliebanadelgado/Desktop/Ejercicio_3_Emisor/Ejercicio_3_Emisor/obj/Debug/net7.0/ref/Ejercicio_3_Emisor.dll
